@@ -28,6 +28,10 @@
 
 你应该注意到小音马尾上白色的东东哪去了？我不太会画这个，所以我干脆不画了，画了反而难看
 
+# 下载
+
+![Github](https://raw.githubusercontent.com/TATyKeFei/MCSkin-Kazamata-Neri/refs/heads/main/Kazamata%20Neri/Kazamata%20Neri.png)
+
 # 小广告
 
 演示图片里的服务器IP: `play.tatyrealms.icu`
