@@ -30,7 +30,7 @@
 
 # 下载
 
-![Github](https://raw.githubusercontent.com/TATyKeFei/MCSkin-Kazamata-Neri/refs/heads/main/Kazamata%20Neri/Kazamata%20Neri.png)
+[Github](https://raw.githubusercontent.com/TATyKeFei/MCSkin-Kazamata-Neri/refs/heads/main/Kazamata%20Neri/Kazamata%20Neri.png)
 
 # 小广告
 
