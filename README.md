@@ -2,20 +2,27 @@
 
 风又音理是游戏《星空列车与白的旅行》的角色，感兴趣可以去搜搜
 
-结局后的星白列车：下一站→《Minecraft》！小音一行人的方块之旅~
+结局后的星白列车：下一站→神秘的方块大陆！小音一行人的方块之旅~
+
+# 下载
+
+[Github Releases](hthttps://github.com/TATyKeFei/MCSkin-Kazamata-Neri/releases)
 
 # 演示
 
 ![](/demo/demo1.png)
 
 > 背包界面
-![](/demo/inv.png)
+>
+> ![](/demo/inv.png)
 
 > 前后预览
-![](/demo/pre1.png) ![](/demo/pre2.png)
+>
+> ![](/demo/pre1.png) ![](/demo/pre2.png)
 
 > 第一人称手
-![](/demo/hand.png)
+>
+> ![](/demo/hand.png)
 
 # 皮肤属性
 
@@ -28,10 +35,6 @@
 
 你应该注意到小音马尾上白色的东东哪去了？我不太会画这个，所以我干脆不画了，画了反而难看
 
-# 下载
-
-[Github](https://raw.githubusercontent.com/TATyKeFei/MCSkin-Kazamata-Neri/refs/heads/main/Kazamata%20Neri/Kazamata%20Neri.png)
-
 # 小广告
 
 演示图片里的服务器IP: `play.tatyrealms.icu`
@@ -40,7 +43,7 @@
 
 这是我的服务器，希望大家支持下ヾ(≧▽≦*)o
 
-# 声明
+# 版权声明
 
 可以使用本仓库的内容作为视频素材、游戏NPC、自己使用，但禁止使用本仓库内容以任何形式盈利！
 
