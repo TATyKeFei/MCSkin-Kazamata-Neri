@@ -6,7 +6,7 @@
 
 # 下载
 
-[Github Releases](hthttps://github.com/TATyKeFei/MCSkin-Kazamata-Neri/releases)
+[Github Releases](https://github.com/TATyKeFei/MCSkin-Kazamata-Neri/releases)
 
 # 演示
 
